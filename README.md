@@ -49,4 +49,12 @@ Atualmente estou focado no desenvolvimento de projetos para aprimorar minhas hab
 
 ---
 
-## 📚 Atualmen
+## 📚 Atualmente estudando
+
+* C# e .NET
+* Desenvolvimento de APIs
+* Python
+* MySQL e MongoDB
+* Arquitetura e boas práticas de desenvolvimento
+
+---
